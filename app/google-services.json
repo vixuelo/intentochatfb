@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783113070998",
+    "firebase_url": "https://intentochatfb.firebaseio.com",
+    "project_id": "intentochatfb",
+    "storage_bucket": "intentochatfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783113070998:android:62a19f714ab0cb0a",
+        "android_client_info": {
+          "package_name": "es.centroafuera.intentochatfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783113070998-b9el3ldbd3efa7piv95ks6fa6vgc7d48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.centroafuera.intentochatfb",
+            "certificate_hash": "5e6cdc56b6347d43d0022789c62d3aff0ea7d499"
+          }
+        },
+        {
+          "client_id": "783113070998-2v4o25p8125voucgp02mnkd89evbk7pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNrgpS5TllQFbh7_BL8wyiWHAlnycbR_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783113070998-2v4o25p8125voucgp02mnkd89evbk7pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
